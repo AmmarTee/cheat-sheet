@@ -1,0 +1,19 @@
+# Local working files
+deployment-keys.md
+original-notes.md
+internal-reference.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
